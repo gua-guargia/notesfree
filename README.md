@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# NotesFree
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NotesFree uses speech analytics to generate meeting summaries and data-driven insights in the background.
+
+# Prototype
+See https://www.figma.com/file/HGEAabKZl63NXAlDkh6tTs/NotesFree-Prototype?node-id=7%3A19473 
 
 ## Available Scripts
 
